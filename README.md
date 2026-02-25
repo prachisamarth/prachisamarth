@@ -34,7 +34,7 @@ I work at the intersection of **clinical domain knowledge** and **analytics** â€
 
 ## Writing
 
-I write about data-driven decision making in Indian healthcare on [Medium](https://medium.com/@samarthprachi).
+I write about healthcare technologies, trends and interesting insight on [Medium](https://medium.com/@samarthprachi).
 
 ---
 
