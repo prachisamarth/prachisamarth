@@ -1,4 +1,4 @@
-# Hi, I'm Prachi Samarth 👋
+# Hi, I'm Prachi Samarth 
 
 I've spent six years working in the medical device space. I've been involved in developing a Class III cardiovascular prototype, working through EU MDR compliance, and speaking directly with clinicians and device manufacturers to understand how products actually get used.
 That experience changed how I look at data.
