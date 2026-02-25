@@ -1,8 +1,8 @@
 # Hi, I'm Prachi Samarth 👋
 
-Healthcare analytics and strategy professional transitioning from medical devices and regulatory affairs into data-driven healthcare decision-making.
-
-I work at the intersection of **clinical domain knowledge** and **analytics** — which means I can read a dataset and understand what it means for a hospital, a MedTech company, or a patient — not just what the numbers say.
+I've spent six years working in the medical device space. I've been involved in developing a Class III cardiovascular prototype, working through EU MDR compliance, and speaking directly with clinicians and device manufacturers to understand how products actually get used.
+That experience changed how I look at data.
+Before opening a dataset, I try to understand the clinical workflow, regulatory constraints, and real-world pressures inside hospitals and labs. Numbers make more sense when you know where they come from.
 
 ---
 
