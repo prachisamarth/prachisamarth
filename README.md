@@ -12,7 +12,7 @@ Before opening a dataset, I try to understand the clinical workflow, regulatory 
 |---|---|
 | [Healthcare Claims Analytics](https://github.com/prachisamarth/Healthcare-Claims-Analytics) | Power BI dashboard analyzing 50,000+ claims — cost drivers, readmission patterns, and population insights |
 | [India CVD Diagnostic Market Entry](https://github.com/prachisamarth/India-MedTech-Market-Entry) | Go/No-Go market assessment and phased entry strategy for a European MedTech company entering India's cardiac diagnostics market |
-| [Hospital Line Expansion Strategy](https://github.com/prachisamarth/Service-Line-Expansion-Strategy)| 
+| [Hospital Line Expansion Strategy](https://github.com/prachisamarth/Service-Line-Expansion-Strategy)| A secondary research-driven strategy framework to guide a mid-sized hospital chain in prioritizing service line expansion across Indian markets.
 
 
 
